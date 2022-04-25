@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79782935868",
+    "project_id": "barta-a9c8c",
+    "storage_bucket": "barta-a9c8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79782935868:android:ac15721fcfc9f9951a3239",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79782935868-v65ss1d3idftfo218o6kja8n6cldfpi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeCE7NlILlPxq8kfJhEZ1jBGQi2LBAE6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79782935868-v65ss1d3idftfo218o6kja8n6cldfpi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
